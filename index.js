@@ -269,6 +269,3 @@
 // }
 // alert(money+" "+penny)
 
-// const ar = ["Banana", "Orange", "Apple", "Mango"];
-// ar.unshift("kiwi")
-// alert(ar)
